@@ -1,1 +1,2 @@
 "# MazeAI" 
+"# exercises" 
